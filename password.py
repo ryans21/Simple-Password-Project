@@ -126,17 +126,4 @@ while True:
         continue
     if rep in nos:
         break
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
+       
